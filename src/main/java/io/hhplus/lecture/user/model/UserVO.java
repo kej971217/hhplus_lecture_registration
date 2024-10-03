@@ -6,5 +6,4 @@ public class UserVO {
     String userNm;
     String roleId;
     String roleNm;
-
 }
