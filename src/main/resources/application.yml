@@ -1,0 +1,4 @@
+spring:
+  application.name: hhplus_lecture_registration
+server:
+   port: 8080
